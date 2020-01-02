@@ -14,16 +14,18 @@ and adding an example or two.
 
 steps to be followed
 
-step 1:
-  Windows User
-    copy paste tools/ Folder into your C:Users/User_name/Documents/Arduino/ Folder
+step 1:  
+      add library by opening arduino ide
+      going Sketch/include Library/add zip library
+
+ 
+step 2:
+   Windows User
+    copy paste "tools" Folder into your C:Users/User_name/Documents/Arduino/ Folder
 
   Linux User:
-    copy paste tools/ Folder into your /home/User_name/Arduino/ Folder
+    copy paste "tools" Folder into your /home/User_name/Arduino/ Folder
 
-step 2:
-  add library by opening arduino ide
-  going Sketch/include Library/add zip library
   
   Updated on 08 november 2019
   1.button 2 bug removed  
